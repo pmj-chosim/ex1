@@ -3,5 +3,10 @@ bob=3
 bob2=5
 
 text = "dfdfdsfsfdf"
+bob = 3
 
-text2="sdfsf"
+bob2 = 5
+
+text = "dfdfdsfsfdf"
+
+text2 = "sdfsf"
